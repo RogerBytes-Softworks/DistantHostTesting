@@ -16,7 +16,7 @@ const currentDate = new Date();
 
 const listImport = {
   1: { file: "./harry/game1/index.js", template: "#harry1" },
-  2: { file: "./harry/game1/index.worker.js, template: "#harry1" },
+  2: { file: "./harry/game1/index.worker.js", template: "#harry1" },
   3: { file: "./dylan/dylan.js", template: "#dylan" },
   4: { file: "./dylan/dylan2.js", template: "#dylan2" },
   5: { file: "./Pierre-Papier-Cisseau-main/script.js", template: "#faissal" },

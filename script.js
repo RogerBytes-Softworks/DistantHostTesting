@@ -15,10 +15,10 @@ const baliseAnim = document.querySelector("balise-animation");
 const currentDate = new Date();
 
 const listImport = {
-  1: { file: "./harry/game1/index.js", template: "#harry1" },
-  2: { file: "./harry/game1/index.worker.js", template: "#harry1" },
-  3: { file: "./harry/game1/index.js", template: "#harry1" },
-  4: { file: "./harry/game1/index.worker.js", template: "#harry1" },
+  1: { file: "./harry/gremlinvasion.js", template: "#harry1" },
+  2: { file: "./harry/gremlinvasion.js", template: "#harry1" },
+  3: { file: "./harry/gremlinvasion.js", template: "#harry1" },
+  4: { file: "./harry/gremlinvasion.js", template: "#harry1" },
   5: { file: "./Pierre-Papier-Cisseau-main/script.js", template: "#faissal" },
   6: { file: "./taquin/taquin.js", template: "#aude2" },
   7: { file: "./thomas/script.js", template: "#thomas" },

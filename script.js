@@ -15,7 +15,7 @@ const baliseAnim = document.querySelector("balise-animation");
 const currentDate = new Date();
 
 const listImport = {
-  1: { file: "./Imane/AnimImane.js", template: "#imane" },
+  1: { file: "./harry/game1/index.html", template: "#harry1" },
   2: { file: "./audejeu/script.js", template: "#aude" },
   3: { file: "./dylan/dylan.js", template: "#dylan" },
   4: { file: "./dylan/dylan2.js", template: "#dylan2" },

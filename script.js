@@ -1,5 +1,5 @@
 "use strict";
-// je comprends pas pourquoi l18 github page ne prend pas en compte les changements
+// je comprends pas pourquoi l18 g
 //-----------Import-----------------
 import Imane from "./Imane/imane.js";
 import Dylan from "./dylan/dylan.js";

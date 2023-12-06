@@ -1,5 +1,5 @@
 "use strict";
-
+// je comprends pas pourquoi l18 github page ne prend pas en compte les changements
 //-----------Import-----------------
 import Imane from "./Imane/imane.js";
 import Dylan from "./dylan/dylan.js";
@@ -17,8 +17,8 @@ const currentDate = new Date();
 const listImport = {
   1: { file: "./harry/game1/index.js", template: "#harry1" },
   2: { file: "./harry/game1/index.worker.js", template: "#harry1" },
-  3: { file: "./dylan/dylan.js", template: "#dylan" },
-  4: { file: "./dylan/dylan2.js", template: "#dylan2" },
+  3: { file: "./harry/game1/index.js", template: "#harry1" },
+  4: { file: "./harry/game1/index.worker.js", template: "#harry1" },
   5: { file: "./Pierre-Papier-Cisseau-main/script.js", template: "#faissal" },
   6: { file: "./taquin/taquin.js", template: "#aude2" },
   7: { file: "./thomas/script.js", template: "#thomas" },
